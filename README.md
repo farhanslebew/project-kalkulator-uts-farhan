@@ -16,4 +16,4 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & 
 * `output kalkulator farhan.png` : Screenshot hasil menjalankan program Python.
 
 ## Screenshot Output Program
-![Output Program](output kalkulator farhan.png)
+![Output Pro](output-program.png)
